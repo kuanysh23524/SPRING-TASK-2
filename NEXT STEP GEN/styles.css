@@ -1,0 +1,90 @@
+.titul {
+    display: flex;
+    background-color: #4c6bc7;
+    height: 58px;
+    align-items: center;
+}
+
+#titul {
+    padding-left: 137px;
+    font-weight: 700;
+    color: antiquewhite;
+    display: inline-block;
+    padding-right: 30px;
+}
+
+#input {
+    border-radius: 20px;
+    height: 30px;
+    background-color: rgb(47, 78, 136);
+    color: gray;
+}
+
+.mainDIV {
+    display: flex;
+}
+
+ul {
+    padding-left: 90px;
+}
+
+.Divcenter {
+    background-color: white;
+    margin-left: 45px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.textinDivcenter {
+    padding-left: 15px;
+}
+
+img {
+    border-radius: 39px;
+    width: 75px;
+    height: 75px;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.xxx {
+    font-size: 12px;
+    padding-left: 10px;
+}
+
+a {
+    color: #4c6bc7;
+}
+
+.div3 {
+    background-color: white;
+    width: 300px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.effect:hover {
+    background-color: rgb(169, 185, 206);
+    font-weight: bold;
+    border: rgb(169, 185, 206) solid;
+}
+
+.effect {
+    padding-left: 15px;
+}
+
+#effectVIE:hover {
+    background-color: rgb(169, 185, 206);
+    font-weight: bold;
+    border: rgb(169, 185, 206) solid;
+}
+
+.effecttt:hover{
+    background-color: rgb(169, 185, 206);
+    font-weight: bold;
+    border: rgb(169, 185, 206) solid;
+}
+a:hover{
+color: orange;
+}

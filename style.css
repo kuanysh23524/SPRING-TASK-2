@@ -1,0 +1,45 @@
+.titul{ 
+background-color:#4c6bc7;
+padding: 2px;
+padding-left:70px;
+display: flex;
+color: antiquewhite;
+padding-right: 30px;
+align-items: center;
+font-weight: 400px;
+    
+}
+
+.input{
+    color: gray;
+    background-color:rgb(47, 78, 136);
+    border-radius: 20px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding-left: 5px;
+    /* font-weight: 500px; */
+}
+
+.parent{
+    margin-left: 50px;
+    margin-right:50px;
+    display: flex;
+    align-items: 10px;
+    width: 100%;
+}
+
+.users{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+.us{
+    margin: 5px;
+}
+.mar{
+    margin: 10px;
+}
+
+
